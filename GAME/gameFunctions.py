@@ -244,7 +244,7 @@ def initText(draw_text, ventana):
         draw_text('Conecta 4 con MINIMAX', ventana,
                  (ANCHO//2, ALTURA//2+85), START_TEXT_SIZE,
                  (255, 255, 255), START_FONT, centered=True)
-        draw_text('Equipo 1 IA MUAR UPM 2021-2022', ventana,
+        draw_text('Germán Ferrando', ventana,
                  (ANCHO//2, ALTURA//2+110), START_TEXT_SIZE, (30, 200, 150),
                  START_FONT, centered=True)
         pygame.display.update()
