@@ -6,7 +6,7 @@ NColumnas = 7
 JUEGODE = 4
 
 #Definir dificultad de la IA - Profundidad de búsqueda de forma manual
-PROFUNDIDAD = 1
+PROFUNDIDAD = 2
 
 ## Parametros juegos
 LIMITEHOR = 3
